@@ -10,3 +10,4 @@ git push
 Studied tokenomics basics.
 ### Quick Note 2
 studied tokenmics advanc
+### Quick Note 3
