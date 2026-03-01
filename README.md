@@ -13,3 +13,4 @@ studied tokenmics advanc
 ### Quick Note 3
 test my skill 
 ### Quick Note 3
+it ok
